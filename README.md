@@ -1,5 +1,5 @@
-#Random Title Generator 
-********************************
+Random Title Generator 
+================================
 Note: This is work in progress. This little project is made for my own practice and entertainment.
 ********************************
 Description: This little program is developed on Ubuntu and uses C++ to handle HTTP queries and JSON data from RIOT's SUMMONER-V3 and LEAGUE-V3 API.
