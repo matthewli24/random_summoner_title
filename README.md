@@ -1,4 +1,4 @@
-Random Title Generator 
+#Random Title Generator 
 ********************************
 Note: This is work in progress. This little project is made for my own practice and entertainment.
 ********************************
