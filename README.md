@@ -12,7 +12,7 @@ USAGE:
 sudo apt-get install libcurl-dev 
 OR sudo apt-get install libcurl4-openssl-dev (the OpenSSL variant)
 OR sudo apt-get install libcurl4-gnutls-dev (the gnutls variant)
-4) To run the program on command line for example: /.main NA-Summoner-Name
+4) To run the program on command line for example: ./main NA-Summoner-Name
 *******************************
 To Do List
 - Do more Error Handling
