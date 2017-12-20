@@ -4,6 +4,8 @@ Note: This is work in progress. This little project is made for my own practice 
 ********************************
 Description: This little program is developed on Ubuntu and uses C++ to handle HTTP queries and JSON data from RIOT's SUMMONER-V3 and LEAGUE-V3 API.
 This program only accepts valid NA Summoner Names in the meantime.
+
+https://www.youtube.com/watch?v=9ezWU3Bt2ko&feature=youtu.be
 ********************************
 USAGE:
 1) Need to insert a API KEY in main.cpp
